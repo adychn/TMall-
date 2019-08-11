@@ -1,0 +1,2 @@
+eval-auc:0.654088	eval-logloss:0.109099
+eval-auc:0.695002	eval-logloss:0.091299
